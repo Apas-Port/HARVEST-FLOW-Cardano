@@ -11,10 +11,17 @@ out/
 .env.development
 .env.production
 .env.test
+scripts/.env
 
 # OS files
 .DS_Store
 *.pem
+
+# Cardano keys and wallets
+*.skey
+*.vkey
+*.addr
+*wallet.json
 
 # Cursor/IDE
 .cursorindexingignore
