@@ -1,0 +1,31 @@
+[
+  {
+    "id": "00000000000000000000000000000001",
+    "num": 1,
+    "contractAddress": "0x9D6d53b5bc498200503Bc7aBCbDec2B8A009460A",
+    "title": "Rumduol",
+    "subTitle": "CAMBODIA TUKTUK LOAN",
+    "description": "The project involves crypto asset lending to a company that operates a tuktuk loan business in Cambodia, a country that has experienced remarkable growth with a 7% GDP growth rate over the past five years and has attracted over 6 million tourists.",
+    "apy": 8.0,
+    "lendingType": "ADA",
+    "network": "Cardano",
+    "capacity": 300,
+    "unitPrice": 1,
+    "collectionName": "Harvestflow",
+    "mainImage": "/images/project/1/main.png",
+    "previewImage": "/images/project/1/preview.jpg",
+    "tuktukImage": "/images/project/1/tuktuk.png",
+    "policyId": "6126d67e8e2fe591393cb05fd0429ae77a4e3b4312d7eb6bdf9fbf9f",
+    "status": "active",
+    "interestEarned": "base number",
+    "interestRate" : 8.0,
+    "repaymentMethod" : "AT MATURITY",
+    "lendingPeriod" : 36,
+    "startDate" : "1 SEP 2024",
+    "assetId": ["10346062", "10346135", "10346122"],
+    "listing": true,
+    "maxMints": 100,
+    "paramUtxoEnvKey": "PARAM_UTXO_RUMDUOL",
+    "mintPriceLovelace": 1969750
+  }
+]

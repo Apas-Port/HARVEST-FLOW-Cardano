@@ -1,0 +1,8 @@
+{
+  "name": "hf-cli",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "hf": "node hf-cli.cjs"
+  }
+}

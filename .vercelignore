@@ -1,0 +1,24 @@
+# Dependencies
+node_modules
+
+# Testing
+test-scripts
+scripts/test-*.ts
+scripts/decode-*.js
+*.test.ts
+*.test.tsx
+
+# Misc
+.git
+.gitignore
+README.md
+.env.local
+.env.example
+
+# Development
+.vscode
+.idea
+
+# Build outputs (will be generated)
+.next
+out
